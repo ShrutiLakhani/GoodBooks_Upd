@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: lightblue;
+}
+
+#btn-genre1 #btn-genre2 #btn-genre3 {
+  padding-top: 2px;
+  margin: 10px;
+  border-top-left-radius: 1px;
+  border-top-right-radius: 1px;
+  border-bottom-left-radius: 1px;
+  border-bottom-left-radius: 1px;
+}
