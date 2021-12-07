@@ -1,2 +1,2 @@
-# GoodBooks_Upd
+# GoodBook Recommendation App
 Created with CodeSandbox
